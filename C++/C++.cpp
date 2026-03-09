@@ -60,7 +60,7 @@ int main() {
     file.read(reinterpret_cast<char*>(&header), sizeof(header));
     file.read(reinterpret_cast<char*>(&infoHeader), sizeof(infoHeader));
 
-    if (infoHeader.width != infoHeader.height || infoHeader.width > 720) {
+    if (infoHeader.width != infoHeader.height) {
         cerr << "Error: La imagen debe ser cuadrada y maximo 720px." << endl;
         return 1;
     }
