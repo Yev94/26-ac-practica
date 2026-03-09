@@ -1,0 +1,104 @@
+﻿  SSE.cpp
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(36,5): error C4235: se ha utilizado una extensión no estándar: la palabra clave '__asm' no se admite en esta arquitectura
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(37,9): error C2065: 'mov': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(37,13): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(37,13): error C2065: 'eax': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(38,9): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(38,9): error C2065: 'mov': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(38,13): error C2146: error de sintaxis: falta ';' delante del identificador 'ec_x'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(38,13): error C2065: 'ec_x': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(40,9): error C2146: error de sintaxis: falta ';' delante del identificador 'movd'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(40,9): error C2065: 'movd': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(40,14): error C2146: error de sintaxis: falta ';' delante del identificador 'xmm1'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(40,14): error C2065: 'xmm1': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(42,9): error C2146: error de sintaxis: falta ';' delante del identificador 'bucle'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(43,9): error C2065: 'cmp': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(43,13): error C2146: error de sintaxis: falta ';' delante del identificador 'ec_x'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(43,13): error C2065: 'ec_x': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(44,13): error C2146: error de sintaxis: falta ';' delante del identificador 'je'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(44,13): error C2065: 'je': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(44,16): error C2146: error de sintaxis: falta ';' delante del identificador 'fin'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(44,16): error C2065: 'fin': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(46,13): error C2146: error de sintaxis: falta ';' delante del identificador 'movzx'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(46,13): error C2065: 'movzx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(46,19): error C2146: error de sintaxis: falta ';' delante del identificador 'ebx'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(46,19): error C2065: 'ebx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(46,24): error C2065: 'byte': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(46,29): error C2146: error de sintaxis: falta ';' delante del identificador 'ptr'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(46,29): error C2065: 'ptr': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(46,33): error C2065: 'eax': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(47,13): error C2146: error de sintaxis: falta ';' delante del identificador 'movzx'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(47,13): error C2065: 'movzx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(47,19): error C2146: error de sintaxis: falta ';' delante del identificador 'ecx'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(47,19): error C2065: 'ecx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(47,24): error C2065: 'byte': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(47,29): error C2146: error de sintaxis: falta ';' delante del identificador 'ptr'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(47,29): error C2065: 'ptr': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(47,33): error C2065: 'eax': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(47,40): error C7732: se esperaba una expresión antes de ']'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(48,13): error C2146: error de sintaxis: falta ';' delante del identificador 'movzx'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(48,13): error C2065: 'movzx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(48,19): error C2146: error de sintaxis: falta ';' delante del identificador 'edx'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(48,19): error C2065: 'edx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(48,24): error C2065: 'byte': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(48,29): error C2146: error de sintaxis: falta ';' delante del identificador 'ptr'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(48,29): error C2065: 'ptr': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(48,33): error C2065: 'eax': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(48,40): error C7732: se esperaba una expresión antes de ']'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(50,13): error C2146: error de sintaxis: falta ';' delante del identificador 'imul'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(50,13): error C2065: 'imul': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(50,18): error C2146: error de sintaxis: falta ';' delante del identificador 'ebx'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(50,18): error C2065: 'ebx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(51,13): error C2146: error de sintaxis: falta ';' delante del identificador 'imul'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(51,13): error C2065: 'imul': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(51,18): error C2146: error de sintaxis: falta ';' delante del identificador 'ecx'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(51,18): error C2065: 'ecx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(52,13): error C2146: error de sintaxis: falta ';' delante del identificador 'imul'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(52,13): error C2065: 'imul': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(52,18): error C2146: error de sintaxis: falta ';' delante del identificador 'edx'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(52,18): error C2065: 'edx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(54,13): error C2146: error de sintaxis: falta ';' delante del identificador 'add'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(54,13): error C2065: 'add': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(54,17): error C2146: error de sintaxis: falta ';' delante del identificador 'ebx'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(54,17): error C2065: 'ebx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(54,22): error C2065: 'ecx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(55,13): error C2146: error de sintaxis: falta ';' delante del identificador 'add'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(55,13): error C2065: 'add': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(55,17): error C2146: error de sintaxis: falta ';' delante del identificador 'ebx'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(55,17): error C2065: 'ebx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(55,22): error C2065: 'edx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(56,13): error C2146: error de sintaxis: falta ';' delante del identificador 'shr'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(56,13): error C2065: 'shr': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(56,17): error C2146: error de sintaxis: falta ';' delante del identificador 'ebx'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(56,17): error C2065: 'ebx': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(58,13): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(58,13): error C2065: 'mov': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(58,17): error C2146: error de sintaxis: falta ';' delante del identificador 'byte'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(58,17): error C2065: 'byte': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(58,22): error C2146: error de sintaxis: falta ';' delante del identificador 'ptr'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(58,22): error C2065: 'ptr': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(58,26): error C2065: 'eax': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(58,32): error C2065: 'bl': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(59,13): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(59,13): error C2065: 'mov': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(59,17): error C2146: error de sintaxis: falta ';' delante del identificador 'byte'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(59,17): error C2065: 'byte': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(59,22): error C2146: error de sintaxis: falta ';' delante del identificador 'ptr'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(59,22): error C2065: 'ptr': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(59,26): error C2065: 'eax': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(59,33): error C7732: se esperaba una expresión antes de ']'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(59,36): error C2065: 'bl': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(60,13): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(60,13): error C2065: 'mov': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(60,17): error C2146: error de sintaxis: falta ';' delante del identificador 'byte'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(60,17): error C2065: 'byte': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(60,22): error C2146: error de sintaxis: falta ';' delante del identificador 'ptr'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(60,22): error C2065: 'ptr': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(60,26): error C2065: 'eax': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(60,33): error C7732: se esperaba una expresión antes de ']'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(60,36): error C2065: 'bl': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(62,13): error C2146: error de sintaxis: falta ';' delante del identificador 'add'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(62,13): error C2065: 'add': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(62,17): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(62,17): error C2065: 'eax': identificador no declarado
+C:\Users\keldo\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\rgb-a-grises\SSE\SSE.cpp(62,17): error C1003: el recuento de errores supera 100; se detiene la compilación
