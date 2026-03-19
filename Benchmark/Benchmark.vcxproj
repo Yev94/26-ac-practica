@@ -18,6 +18,18 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\AlgoCPP.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\AlgoSSE.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\Assembly.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\MainBenchmark.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\AlgoCPP.h" />
+    <ClInclude Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\AlgoSSE.h" />
+    <ClInclude Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\Assembly.h" />
+    <ClInclude Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\Common.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -122,9 +134,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="Benchmark.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

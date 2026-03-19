@@ -15,8 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Benchmark.cpp">
+    <ClCompile Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\AlgoCPP.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\AlgoSSE.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\Assembly.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\MainBenchmark.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\AlgoCPP.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\AlgoSSE.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\Assembly.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Desktop\Universidad\Asignaturas\2º\Semestre 2\Arquitectura de los Computadores\Fase 2\Benchmark-v5.1\Benchmark\Common.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
